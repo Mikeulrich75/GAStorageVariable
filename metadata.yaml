@@ -15,5 +15,5 @@
 homepage: "https://github.com/Mikeulrich75"
 documentation: "https://github.com/Mikeulrich75/GAStorageVariable/blob/main/README.md"
 versions:
-  - sha: f8e1dd9b3dcab6bcef265bb438bbfceb48fc1326
+  - sha: ef297405318ba756c548e94d1ed55570e017822e
     changeNotes: Initial Version
